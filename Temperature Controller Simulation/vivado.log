@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1733598 on Wed Dec 14 22:35:39 MST 2016
+# IP Build 1731160 on Wed Dec 14 23:47:21 MST 2016
+# Start of session at: Wed Mar 01 10:15:01 2017
+# Process ID: 14284
+# Current directory: C:/Users/anwar/Desktop/Temperature Controller Simulation
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3368 C:\Users\anwar\Desktop\Temperature Controller Simulation\challenge_3.xpr
+# Log file: C:/Users/anwar/Desktop/Temperature Controller Simulation/vivado.log
+# Journal file: C:/Users/anwar/Desktop/Temperature Controller Simulation\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/anwar/Desktop/Temperature Controller Simulation/challenge_3.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/anwar/Desktop/EE214/challenge_3' since last save.
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-509] GeneratedRun file for 'synth_1' not found
+WARNING: [Project 1-509] GeneratedRun file for 'impl_1' not found
+INFO: [filemgmt 56-1] IPUserFilesDir: Directory not found as 'C:/Users/anwar/Desktop/Temperature Controller Simulation/challenge_3.ip_user_files'; using path 'C:/Users/anwar/Desktop/EE214/challenge_3/challenge_3.ip_user_files' instead.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Xilinx/Vivado/2016.4/data/ip'.
+exit
+INFO: [Common 17-206] Exiting Vivado at Wed Mar 01 10:15:31 2017...
